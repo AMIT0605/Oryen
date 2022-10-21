@@ -1,0 +1,31 @@
+.box1
+{
+    box-shadow: 1px 2px 8px 1px black, 0 -6px 20px 0 rgba(0, 0, 0, 0.2);
+    border: 1px solid #00b09b;
+}
+.box2
+{
+    box-shadow: 1px 2px 8px 1px black, 0 -6px 20px 0 rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    
+}
+.txt1
+{
+    text-shadow: rgb(240, 239, 234) 1px 0 20px;
+    
+}
+.box3
+{
+    box-shadow: 1px 0 8px 0 rgb(242, 241, 241), 0 -6px 20px 0 rgba(0, 0, 0, 0.2);
+    
+}
+.txt2
+{
+    text-shadow: #00b09b 1px 0 20px;
+    
+}
+.box4
+{
+    box-shadow: 1px 0 8px 0 #00b09b, 0 -6px 20px 0 #00b09b;
+    
+}
